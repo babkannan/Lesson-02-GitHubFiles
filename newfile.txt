@@ -1,0 +1,2 @@
+Practicing the git commands like creating new branch (checkout -b), switching to the new branch (git checkout <branch>)
+listing out all the branches (git branch) etc
