@@ -1,2 +1,3 @@
-added new ui file according to the customer requirements
-New Edits!
+added new ui file - for resolve conflicts
+I don't want the New Edits!
+Testing the resolve conflicts!
